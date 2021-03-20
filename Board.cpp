@@ -9,11 +9,6 @@ using namespace ariel;
 
 const int BASE_TEN = 10;
 
-// // Define a Location which is a pair that holds row and column
-// typedef pair<unsigned int, unsigned int> Location; // pair<row, column>
-// // Ordered map that stores the character that exists in each Location
-// map<Location, char> messageBoard;
-
 /**
  * Function that posts the given message to the message board according to the given location(row, column), direction.
  */
